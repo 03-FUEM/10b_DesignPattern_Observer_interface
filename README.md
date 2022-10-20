@@ -1,0 +1,1 @@
+# 10b_DesignPattern_Observer_interface
